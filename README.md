@@ -1,6 +1,6 @@
 ### Hi, I'm James 👋 💻
 
-!(https://github.com/James-kamwendo/James-kamwendo/blob/main/James%20Kamwendo%20(1).png)
+![](https://github.com/James-kamwendo/James-kamwendo/blob/main/James%20Kamwendo%20(1).png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-kamwendo&show_icons=true&bg_color=00000000)
 
