@@ -25,7 +25,7 @@ OpenCart Fakestore is a fictional online store that simply demonstrates how to w
 ![OpenCart Store](https://github.com/James-kamwendo/opencart/blob/master/opencart-fs.gif)
 
 ## Find Me Around The Web 🌐
-- Feel free to reach out to me at [James](jameskamwendo226@gmail.com) or [Seamnex](https://seamnex.rf.gd)
+- Feel free to reach out to me by email [James](jameskamwendo226@gmail.com) or website [Seamnex](https://seamnex.rf.gd)
 - connect with me on [LinkedIn](https://linkedin/in/james-kamwendo).
 
 
