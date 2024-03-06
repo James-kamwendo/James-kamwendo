@@ -13,7 +13,7 @@ I'm a passionate and results-driven software engineer with 6+ years of experienc
 
 ## 🌐 Some of my works
 
-Happy to share this OpenCart Fakestore project I worked on. It's not that complicated, I just wanted to say hello to the tech world by using JavaScript to work with API's 😄 as simple as it is, you probably might know already or have better ways to do it, but sharing it fun 🔃.
+Happy to share this OpenCart Fakestore project I worked on. It's not that complicated, I just wanted to say hello world by using JavaScript to work with an API 😄 as simple as it is, you probably might know already or have better ways to do it, but sharing is fun 🔃.
 
 ### OpenCart Store - Fake Online Store
 
