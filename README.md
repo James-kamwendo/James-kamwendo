@@ -7,7 +7,7 @@ I'm a passionate and results-driven software engineer with 6+ years of experienc
 ## Skills
 
 - **Languages:** [JavaScript, Pinia, HTML, CSS, Python, PHP]
-- **Frameworks:** [VueJs, Laravel, React, React Native, Django, Flutter, Dart]
+- **Frameworks:** [VueJs, TypeScript, Node.js, Laravel, React, React Native, Django, Flutter, Dart]
 - **Databases:** [Mysql, Postgrest, Firebase, Appwrite, MongoDB]
 - **Tools & Technologies:** [Git, Github, Docker, Android Studio, Adobe Suite(Photoshop, XD, InDesign, Illustrator)]
 
