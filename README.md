@@ -20,7 +20,7 @@ Happy to share this OpenCart Fakestore project I worked on. It's not that compli
 OpenCart Fakestore is a fictional online store that simply demonstrates how to work with an API, it has features like adding, removing a products or products to a cart, calculating the products costs, viewing product details e.t.c by utilising the fakestore API, JavaScript to handle the logic, HTML and CSS for the UI.
 
 - Demo Link: [OpenCart Store](https://opencart-fakestore.000webhostapp.com/)
-- Githu Repo: [OpenCart Store](https://github.com/James-kamwendo/opencart)
+- Github Repo: [OpenCart Store](https://github.com/James-kamwendo/opencart)
 
 ![OpenCart Store](https://github.com/James-kamwendo/opencart/blob/master/opencart-fs.gif)
 
