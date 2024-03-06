@@ -1,7 +1,10 @@
-### Hello, 👋 I'm James Kamwendo
+### Hi, I'm James 👋 💻
+
+![]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-kamwendo&show_icons=true&bg_color=00000000)
 
+Skills: JavaScript, Vue, React, Laravel, Django, Flutter, Postgrest, Mysql, Firebase, Appwrite
 <!--
 **James-kamwendo/James-kamwendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
