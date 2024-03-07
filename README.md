@@ -26,7 +26,7 @@ OpenCart Fakestore is a fictional online store that simply demonstrates how to w
 
 ## Find Me Around The Web 🌐
 - Feel free to reach out to me by email [James](jameskamwendo226@gmail.com) or website [Seamnex](https://seamnex.rf.gd)
-- connect with me on [LinkedIn](https://linkedin/in/james-kamwendo).
+- connect with me on [LinkedIn](https://linkedin.com/in/james-kamwendo).
 
 
 <!--
