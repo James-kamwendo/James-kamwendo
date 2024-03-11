@@ -11,7 +11,7 @@ I'm a passionate and results-driven software engineer with 6+ years of experienc
 - **Databases:** [Mysql, Postgrest, Firebase, Appwrite, MongoDB]
 - **Tools & Technologies:** [Git, Github, Docker, Android Studio, Adobe Suite(Photoshop, XD, InDesign, Illustrator)]
 
-## 🌐 Some of my works
+## 🌐 My Projects
 
 Happy to share this OpenCart Fakestore project I worked on. It's not that complicated, I just wanted to say hello world by using JavaScript to work with an API 😄 as simple as it is, you probably might know already or have better ways to do it, but sharing is fun 🔃.
 
@@ -23,6 +23,13 @@ OpenCart Fakestore is a fictional online store that simply demonstrates how to w
 - Github Repo: [OpenCart Store](https://github.com/James-kamwendo/opencart)
 
 ![OpenCart Store](https://github.com/James-kamwendo/opencart/blob/master/opencart-fs.gif)
+
+### Dark theme mode in NextJs
+It will be a lie to say everyone likes bright staff, abit dim or darkness is convenient for others who are trying to use your system. here is how you can add dark/light mode or theme in [Next Js]. The set up is simple, follow through the steps below.
+
+- Demo: 
+![DarkMode](https://github.com/James-kamwendo/James-kamwendo/assets/104228554/01f6982f-77b5-48ee-bf73-39033affdeed)
+- Github Repo: [OpenCart Store](https://github.com/James-kamwendo/dark-mode)
 
 ## Find Me Around The Web 🌐
 - Feel free to reach out to me by email [James](jameskamwendo226@gmail.com) or website [Seamnex](https://seamnex.rf.gd)
