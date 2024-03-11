@@ -29,7 +29,7 @@ It will be a lie to say everyone likes bright staff, abit dim or darkness is con
 
 - Demo: 
 ![DarkMode](https://github.com/James-kamwendo/James-kamwendo/assets/104228554/01f6982f-77b5-48ee-bf73-39033affdeed)
-- Github Repo: [OpenCart Store](https://github.com/James-kamwendo/dark-mode)
+- Github Repo: [Dark Theme](https://github.com/James-kamwendo/dark-mode)
 
 ## Find Me Around The Web 🌐
 - Feel free to reach out to me by email [James](jameskamwendo226@gmail.com) or website [Seamnex](https://seamnex.rf.gd)
