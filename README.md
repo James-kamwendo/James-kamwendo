@@ -2,18 +2,18 @@
 
 ![](https://github.com/James-kamwendo/James-kamwendo/blob/main/James%20Kamwendo%20(1).png)
 
-I'm a passionate and results-driven software engineer with 6+ years of experience in designing and developing robust software solutions, I'm passionate about using technology for social good to elevate people and the community. Some technologies I enjoy working with include JavaScript (including frameworks like ReactJS, VueJs), php, Laravel, python, UI/UX Design, Cloud Computing (especially, Huawei Cloud) among others. I thrive to deliver high-quality code, intuitive graphic designs and cloud computing expertise. Open to work & collaborate with forward-thinking organisations & individuals who share my vision for leveraging technology to solve real-world challenges 
+Passionate and results-driven software engineer with 6+ years of experience in designing and developing robust software solutions. I'm passionate about using technology for social good to elevate people and its community. Some technologies I enjoy working with include JavaScript (including frameworks like ReactJS, VueJs), php (framework like Laravel), python (framework like Django), UI/UX Design, Cloud Computing (especially, Huawei Cloud) among others. I thrive to deliver high-quality code, intuitive graphic designs and cloud computing expertise. Open to work & collaborate with forward-thinking organisations & individuals who share my vision for leveraging technology to solve real-world challenges 
 
 ## Skills
 
 - **Languages:** [JavaScript, Typescript, Node.js, Dart, HTML, CSS, Python, PHP]
 - **Frameworks:** [VueJs, NextJs, Nuxt3 Laravel, React, React Native, Django, Flutter]
-- **Databases:** [Mysql, Postgrest, Firebase, Appwrite, MongoDB]
+- **Databases:** [Mysql, Postgrest, Firebase, Appwrite, MongoDB, SQLITE]
 - **Tools & Technologies:** [Git, Github, Docker, Android Studio, Adobe Suite(Photoshop, XD, InDesign, Illustrator)]
 
 ## 🌐 My Projects
 
-Happy to share this OpenCart Fakestore project I worked on. It's not that complicated, I just wanted to say hello world by using JavaScript to work with an API 😄 as simple as it is, you probably might know already or have better ways to do it, but sharing is fun 🔃.
+Happy to share this OpenCart Fakestore project I worked on. It's not that complicated or breathtaking 😶‍🌫️ or maybe it is😜. Anyways, I just wanted to say hello world by using very basic JavaScript to work with a simple API 😄 as simple as it is, you probably might know already or have better ways to do it, but sharing is fun 🔃.
 
 ### OpenCart Store - Fake Online Store
 
