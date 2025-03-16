@@ -38,10 +38,11 @@ It will be a lie to say everyone likes bright staff, abit dim or darkness is con
 or website [Seamnex](https://seamnex.rf.gd)
 -->
 
+<!--
 ## Find Me Around The Web 🌐
 - Feel free to reach out to me by email [James](jameskamwendo226@gmail.com)
 - connect with me on [LinkedIn](https://linkedin.com/in/james-kamwendo).
-
+-->
 
 <!--
 <--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-kamwendo&show_icons=true&bg_color=00000000)
