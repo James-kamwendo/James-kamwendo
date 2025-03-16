@@ -1,6 +1,7 @@
 ### Hi, I'm James 👋 💻
 
-![](https://github.com/James-kamwendo/James-kamwendo/blob/main/James%20Kamwendo%20(1).png)
+<!--![](https://github.com/James-kamwendo/James-kamwendo/blob/main/James%20Kamwendo%20(1).png)-->
+![](https://github.com/James-kamwendo/James-kamwendo/blob/main/James%20Kamwendo.png)
 
 Very Passionate about using technology for social good to elevate mankind and its community. What I enjoy working with: JavaScript (including frameworks like ReactJS, VueJs), Php Native, Laravel, Python, UI/UX Design, among others. 
 
