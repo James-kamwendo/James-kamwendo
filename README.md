@@ -2,8 +2,9 @@
 
 ![](https://github.com/James-kamwendo/James-kamwendo/blob/main/James%20Kamwendo%20(1).png)
 
-Passionate and results-driven software engineer with 6+ years of experience in designing and developing robust software solutions. I'm passionate about using technology for social good to elevate people and its community. Some technologies I enjoy working with include JavaScript (including frameworks like ReactJS, VueJs), php (framework like Laravel), python (framework like Django), UI/UX Design, Cloud Computing (especially, Huawei Cloud) among others. I thrive to deliver high-quality code, intuitive graphic designs and cloud computing expertise. Open to work & collaborate with forward-thinking organisations & individuals who share my vision for leveraging technology to solve real-world challenges 
+Very Passionate about using technology for social good to elevate mankind and its community. What I enjoy working with: JavaScript (including frameworks like ReactJS, VueJs), Php Native, Laravel, Python, UI/UX Design, among others. 
 
+<!--
 ## Skills
 
 - **Languages:** [JavaScript, Typescript, Node.js, Dart, HTML, CSS, Python, PHP]
@@ -31,8 +32,11 @@ It will be a lie to say everyone likes bright staff, abit dim or darkness is con
 ![DarkMode](https://github.com/James-kamwendo/James-kamwendo/assets/104228554/01f6982f-77b5-48ee-bf73-39033affdeed)
 - Github Repo: [Dark Theme](https://github.com/James-kamwendo/dark-mode)
 
+or website [Seamnex](https://seamnex.rf.gd)
+-->
+
 ## Find Me Around The Web 🌐
-- Feel free to reach out to me by email [James](jameskamwendo226@gmail.com) or website [Seamnex](https://seamnex.rf.gd)
+- Feel free to reach out to me by email [James](jameskamwendo226@gmail.com)
 - connect with me on [LinkedIn](https://linkedin.com/in/james-kamwendo).
 
 
