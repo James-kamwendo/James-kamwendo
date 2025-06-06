@@ -39,7 +39,7 @@ or website [Seamnex](https://seamnex.rf.gd)
 -->
 
 ## Find Me Around The Web 🌏
-- 📧 Feel free to reach out to me by email [James](j.kamwendo@codelabmw.dev)
+- 📧 Feel free to reach out to me by email [James](jameskamwendo226@gmail.com)
 <!--
 - connect with me on [LinkedIn](https://linkedin.com/in/james-kamwendo).
 -->
