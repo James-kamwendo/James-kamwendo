@@ -1,4 +1,4 @@
-### Hi, I'm James 👋 💻
+### Hi, I'm James 👋
 
 <!--![](https://github.com/James-kamwendo/James-kamwendo/blob/main/James%20Kamwendo%20(1).png)-->
 ![](https://github.com/James-kamwendo/James-kamwendo/blob/main/James%20Kamwendo.png)
